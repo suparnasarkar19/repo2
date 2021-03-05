@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 480B-E588
-
- Directory of C:\Users\admin\Desktop\PROJECT
-
-05-03-2021  13:46    <DIR>          .
-05-03-2021  13:46    <DIR>          ..
-05-03-2021  13:46                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   4,767,723,520 bytes free
+ change 1
